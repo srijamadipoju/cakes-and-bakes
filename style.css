@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(cak.jpg);
+    background-repeat: no repeat;
+    background-size: 1300px 600px;
+}
+#text1{
+    color: red;
+    font-size: 60px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#text2{
+    color: blue;
+    font-size: 60px;
+    margin-left:15px ;
+}
+button{
+    height: 60px;
+    width: 180px;
+    background-color: pink;
+    border-radius: 25px;
+}
+button a{
+    color: blueviolet;
+    font-size: 23px;
+    text-decoration: none;
+    font-weight: bold;
+}
+button:hover{
+    background-color: red;
+}

@@ -1,0 +1,37 @@
+body{
+    background-image:url(cik.jpg);
+    background-repeat: no-repeat;
+    background-size: 1320px 600px;
+}
+form{
+    border: solid;
+    width: 300px;
+    margin-left: 850px;
+    margin-top: 100px;
+    background: radial-gradient(yellow,green);
+    border-radius: 10px;
+}
+h1{
+   color: black;
+   text-align: center;
+}
+label{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    height:20px;
+    width: 260px;
+    border-radius: 20px;
+ 
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: red;
+    border-radius: 30px;
+    font-weight: bold;
+    
+    
+}
